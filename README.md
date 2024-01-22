@@ -1,2 +1,2 @@
-# delta_git
+# delta_demo
 delta github class
