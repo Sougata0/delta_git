@@ -5,4 +5,4 @@ delta github class
 Shradha Khapra
 
 # student 
-Parimal Majhi
+Parimal Majhi.
